@@ -1,4 +1,4 @@
-HarvestCraft-Translations for HarvestCraft 1.6.4a
+Translations for HarvestCraft 1.6.4a
 =========================
 
 The inofficial HarvestCraft Translation Repository
