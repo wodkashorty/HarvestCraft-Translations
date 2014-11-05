@@ -1,4 +1,6 @@
-itemGroup.tabHarvestCraft=HarvestCraft
+itemGroup.tabHarvestCraft=HarvestCraft Misc
+itemGroup.tabHarvestCraft2=HarvestCraft Crops
+itemGroup.tabHarvestCraft3=HarvestCraft Food
 
 # Tooltips
 tooltip.harvestcraft.item.queenbeeItem=Apiary: Honeycomb, Waxcomb, Grubs\nCrafting Grid: Royal Jelly at 0 Durability
@@ -867,5 +869,24 @@ item.lavendershortbreadItem.name=Lavender Shortbread
 item.beefwellingtonItem.name=Beef Wellington
 item.epicbaconItem.name=Epic Bacon
 item.manjuuItem.name=Manjuu
+
+item.chickengumboItem.name=Chicken Gumbo
+item.generaltsochickenItem.name=General Tso's Chicken
+item.californiarollItem.name=California Roll
+item.futomakiItem.name=Futo Maki
+item.beansontoastItem.name=Beans on Toast
+item.vegemiteItem.name=Vegemite
+item.honeycombchocolatebarItem.name=Honeycomb Chocolate Bar
+item.cherrycoconutchocolatebarItem.name=Cherry Coconut Chocolate Bar
+item.fairybreadItem.name=Fairy Bread
+item.lamingtonItem.name=Lamington
+item.timtamItem.name=Tim Tam
+item.meatpieItem.name=Meat Pie
+item.chikorollItem.name=Chiko Roll
+item.damperItem.name=Damper
+item.beetburgerItem.name=Beet Burger
+item.pavlovaItem.name=Pavlova
+item.gherkinItem.name=Gherkin
+item.mcpamItem.name=McPam
 
 item.pamscookbookItem.name=Pam's Cookbook

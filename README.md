@@ -1,4 +1,4 @@
-Translations for HarvestCraft 1.7.10b
+Translations for HarvestCraft 1.7.10c
 =========================
 
 Welcome to the inofficial HarvestCraft Translation Repository
