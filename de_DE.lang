@@ -148,7 +148,8 @@ tile.pamlettuceCrop.name=Salatpflanze
 tile.pamscallionCrop.name=Scallionpflanze
 tile.pamartichokeCrop.name=Artichokepflanze
 tile.pambrusselsproutCrop.name=Brussel Sproutpflanze
-tile.pamcabbageCrop.name=Cabbagepflanze
+tile.pamcabbageCrop.name=Kohlkopf
+tile.pamspinachCrop.name=Spinatpflanze
 tile.pamwhitemushroomCrop.name=White Mushroompflanze
 tile.pambeanCrop.name=Bohnenpflanze
 tile.pamsoybeanCrop.name=Sojabohnenpflanze
@@ -182,6 +183,16 @@ tile.pamcandleDeco13.name=Braune Kerze
 tile.pamcandleDeco14.name=Grüne Kerze
 tile.pamcandleDeco15.name=Rote Kerze
 tile.pamcandleDeco16.name=Schwarze Kerze
+
+87	tile.pamcarrotCake.name=Carrot Cake 	 	
+188	tile.pamcheeseCake.name=Cheese Cake 	 	
+189	tile.pamcherrycheeseCake.name=Cherry Cheese Cake 	 	
+190	tile.pampineappleupsidedownCake.name=Pineapple Upside Down Cake 	 	
+191	tile.pamchocolatesprinkleCake.name=Chocolate Sprinkle Cake 	 	
+192	tile.pamredvelvetCake.name=Red Velvet Cake 	 	
+193	tile.pamlamingtonCake.name=Lamington 	 	
+194	tile.pampavlovaCake.name=Pavlova 	 	
+195	tile.pamholidayCake.name=Holiday Cake 
 
 # Items
 item.cottonItem.name=Baumwolle
@@ -217,6 +228,7 @@ item.juicerItem.name=Entsafter
 
 item.asparagusItem.name=Spargel
 item.asparagusseedItem.name=Spargelsaat
+item.grilledasparagusItem.name=Gegrillter Spargel
 item.barleyItem.name=Gerste
 item.barleyseedItem.name=Gerstensaat
 item.beanItem.name=Bohnen
@@ -253,6 +265,7 @@ item.radishItem.name=Radish
 item.radishseedItem.name=Radishsaat
 item.riceItem.name=Reis
 item.riceseedItem.name=Reissaat
+item.ricecakeItem.name=Reiskuchen	
 item.rutabagaItem.name=Rutabaga
 item.rutabagaseedItem.name=Rutabagasaat
 item.ryeItem.name=Rye
@@ -267,8 +280,10 @@ item.sunflowerseedsItem.name=Sonnenblumenkerne
 item.sunflowerseedItem.name=Sonnenblumenkern
 item.sweetpotatoItem.name=Süßkartoffel
 item.sweetpotatoseedItem.name=Süßkartoffelsaat
-item.tealeafItem.name=Tea Leaf
-item.teaseedItem.name=Teasaat
+item.bakedsweetpotatoItem.name=Gebackene Süßkartoffel
+item.tealeafItem.name=Teeblätter
+item.teaseedItem.name=Teesaat
+item.teaItem.name=Tasse Tee
 item.turnipItem.name=Turnip
 item.turnipseedItem.name=Turnipsaat
 item.whitemushroomItem.name=White Mushroom
@@ -288,8 +303,6 @@ item.cabbageItem.name=Cabbage
 item.cabbageseedItem.name=Cabbagesaat
 item.cactusfruitItem.name=Cactus Fruit
 item.cactusfruitseedItem.name=Cactus Fruitsaat
-item.candleberryItem.name=Kerzenbeere
-item.candleberryseedItem.name=Kerzenbeerensaat
 item.waxItem.name=Wachs
 item.cantaloupeItem.name=Cantaloupe
 item.cantaloupeseedItem.name=Cantaloupesaat
@@ -297,16 +310,15 @@ item.chilipepperItem.name=Chili Pepper
 item.chilipepperseedItem.name=Chili Peppersaat
 item.coffeebeanItem.name=Coffee Beans
 item.coffeeseedItem.name=Coffeesaat
+item.coffeeItem.name=Tasse Kaffee
 item.cornItem.name=Mais
 item.cornseedItem.name=Maiskörner
 item.popcornItem.name=Popcorn
-item.cottonItem.name=Baumwolle
-item.cottonseedItem.name=Baumwollsamen
-item.wovencottonItem.name=Gewebte Baumwolle
 item.cucumberItem.name=Gurke
 item.cucumberseedItem.name=Gurkensaat
 item.eggplantItem.name=Aubergine
 item.eggplantseedItem.name=Auberginensaat
+item.grilledeggplantItem.name=Gegrillte Aubergine
 item.grapeItem.name=Grape
 item.grapeseedItem.name=Grapesaat
 item.raisinsItem.name=Raisins
@@ -334,7 +346,8 @@ item.zucchiniItem.name=Zucchini
 item.zucchiniseedItem.name=Zucchinisaat
 item.bambooshootItem.name=Bamboo Shoot
 item.bambooshootseedItem.name=Bamboo Shootsaat
-        
+item.spinachItem.name=Spinat 	 	
+item.spinachseedItem.name=Spinatsaat 
 item.almondItem.name=Mandel
 item.apricotItem.name=Aprikose
 item.avocadoItem.name=Avocado
@@ -369,15 +382,8 @@ item.starfruitItem.name=Sternfrucht
 item.vanillabeanItem.name=Vanilleschote
 item.walnutItem.name=Walnuss
 
-item.grilledasparagusItem.name=Gegrillter Spargel
 item.ricecakeItem.name=Reiskuchen
-item.bakedsweetpotatoItem.name=Gebackene Süßkartoffel
-item.teaItem.name=Tasse Tee
-item.coffeeItem.name=Tasse Kaffee
-item.grilledeggplantItem.name=Gegrillte Aubergine
-item.toastedcoconutItem.name=Geröstete Kokosnuss
 item.vanillaItem.name=Vanille
-        
 item.saltItem.name=Salz
 item.flourItem.name=Mehl
 item.doughItem.name=Teig
@@ -438,14 +444,12 @@ item.chocolateicecreamItem.name=Chocolate Ice Cream
 item.vegetablesoupItem.name=Vegetable Soup
 item.stockItem.name=Stock
 item.fruitsaladItem.name=Fruit Salad
-        
 item.spagettiItem.name=Spagetti
 item.spagettiandmeatballsItem.name=Spagetti and Meatballs
 item.tomatosoupItem.name=Tomato Soup
 item.ketchupItem.name=Ketchup
 item.chickenparmasanItem.name=Chicken Parmasan
 item.pizzaItem.name=Pizza
-        
 item.springsaladItem.name=Spring Salad
 item.porklettucewrapItem.name=Pork Lettuce Wrap
 item.fishlettucewrapItem.name=Fish Lettuce Wrap
@@ -454,7 +458,6 @@ item.leafychickensandwichItem.name=Leafy Chicken Sandwich
 item.leafyfishsandwichItem.name=Leafy Fish Sandwich
 item.deluxecheeseburgerItem.name=Deluxe Cheeseburger
 item.delightedmealItem.name=Delighted Meal
-        
 item.onionsoupItem.name=Zwiebelsuppe
 item.potatocakesItem.name=Potato Cakes
 item.hashItem.name=Hash
@@ -469,24 +472,20 @@ item.nachoesItem.name=Nachoes
 item.tacoItem.name=Taco
 item.fishtacoItem.name=Fish Taco
 item.creamedcornItem.name=Creamed Corn
-        
 item.strawberrysmoothieItem.name=Erdbeer-Smoothie
 item.strawberrypieItem.name=Erdbeerkuchen
 item.strawberrysaladItem.name=Erdbeersalat
 item.strawberryjuiceItem.name=Erdbeersaft
 item.chocolatestrawberryItem.name=Chocolate Strawberry
-        
 item.peanutbutterItem.name=Erdnussbutter
 item.trailmixItem.name=Trail Mix
 item.pbandjItem.name=PB&J
 item.peanutbuttercookiesItem.name=Peanut Butter Cookies
-        
 item.grapejuiceItem.name=Grapesaft
 item.vinegarItem.name=Essig
 item.grapejellyItem.name=Grapegelee
 item.grapesaladItem.name=Grape Salad
 item.raisincookiesItem.name=Raisin Cookies
-        
 item.picklesItem.name=Pickles
 item.cucumbersaladItem.name=Cucumber Salad
 item.cucumbersoupItem.name=Cucumber Soup
@@ -498,24 +497,20 @@ item.friedriceItem.name=Fried Rice
 item.mushroomrisottoItem.name=Mushroom Risotto
 item.curryItem.name=Curry Rice
 item.rainbowcurryItem.name=Rainbow Curry
-        
 item.refriedbeansItem.name=Refried Beans
 item.bakedbeansItem.name=Baked Beans
 item.beansandriceItem.name=Beans and Rice
 item.chiliItem.name=Chili
 item.beanburritoItem.name=Bean Burrito
-        
 item.stuffedpepperItem.name=Stuffed Pepper
 item.veggiestirfryItem.name=Veggie Stirfry
 item.grilledskewersItem.name=Grilled Skewer
 item.supremepizzaItem.name=Supreme Pizza
 item.omeletItem.name=Omelet
-        
 item.hotwingsItem.name=Hot Wings
 item.chilipoppersItem.name=Chili Poppers
 item.extremechiliItem.name=Extreme Chili
 item.chilichocolateItem.name=Chili Chocolate
-        
 item.lemonaideItem.name=Lemonade
 item.lemonbarItem.name=Lemon Bar
 item.fishdinnerItem.name=Fish Dinner
@@ -523,208 +518,163 @@ item.lemonsmoothieItem.name=Lemon Smoothie
 item.lemonmeringueItem.name=Lemon Meringue
 item.candiedlemonItem.name=Candied Lemon
 item.lemonchickenItem.name=Lemon Chicken
-        
 item.blueberrysmoothieItem.name=Blaubeer-Smoothie
 item.blueberrypieItem.name=Blaubeerkuchen
 item.blueberrymuffinItem.name=Blaubeermuffin
 item.blueberryjuiceItem.name=Blaubeersaft
 item.pancakesItem.name=Pfannkuchen
 item.blueberrypancakesItem.name=Blaubeerpfannkuchen
-        
 item.cherryjuiceItem.name=Kirschsaft
 item.cherrypieItem.name=Kirschkuchen
 item.chocolatecherryItem.name=Chocolate Cherry
 item.cherrysmoothieItem.name=Kirsch-Smoothie
 item.cheesecakeItem.name=Käsekuchen
 item.cherrycheesecakeItem.name=Käsekuchen mit Kirschen
-        
 item.stuffedeggplantItem.name=Gefüllte Aubergine
 item.eggplantparmItem.name=Eggplant Parm
-        
 item.raspberryicedteaItem.name=Himbeer-Eistee
 item.chaiteaItem.name=Chai Tea
-        
 item.espressoItem.name=Espresso
 item.coffeeconlecheItem.name=Coffee con Leche
 item.mochaicecreamItem.name=Mocha Ice Cream
-        
 item.pickledbeetsItem.name=Pickled Beets
 item.beetsaladItem.name=Rote Bete Salat
 item.beetsoupItem.name=Beet Soup
 item.bakedbeetsItem.name=Baked Beets
-        
 item.broccolimacItem.name=Broccoli Mac
 item.broccolindipItem.name=Broccoli n Dip
 item.creamedbroccolisoupItem.name=Creamed Broccoli Soup
-        
 item.sweetpotatopieItem.name=Sweet Potato Pie
 item.candiedsweetpotatoesItem.name=Candied Sweet Potatoes
 item.mashedsweetpotatoesItem.name=Mashed Sweet Potatoes
-        
 item.steamedpeasItem.name=Steamed Peas
 item.splitpeasoupItem.name=Split Pea Soup
-        
 item.pineappleupsidedowncakeItem.name=Pineapple Upsidedown Cake
 item.pineapplehamItem.name=Pineapple Ham
 item.pineappleyogurtItem.name=Pineapple Jogurt
-        
 item.turnipsoupItem.name=Turnip Soup
 item.roastedrootveggiemedleyItem.name=Roasted Root Veggie Medley
 item.bakedturnipsItem.name=Baked Turnips
-        
 item.gingerbreadItem.name=Ginger Bread
 item.gingersnapsItem.name=Ginger Snaps
 item.candiedgingerItem.name=Candied Ginger
-        
 item.mustardItem.name=Senf
 item.softpretzelandmustardItem.name=Soft Pretzel and Mustard
 item.spicymustardporkItem.name=Spicy Mustard Pork
 item.spicygreensItem.name=Spicy Greens
-        
 item.garlicbreadItem.name=Knoblauchbrot
 item.garlicmashedpotatoesItem.name=Garlic Mashed Potatoes
 item.garlicchickenItem.name=Garlic Chicken
-        
 item.summerradishsaladItem.name=Summer Radish Salad
 item.summersquashwithradishItem.name=Summer Squash with Radish
-        
 item.celeryandpeanutbutterItem.name=Celery and Peanut Butter
 item.chickencelerycasseroleItem.name=Chicken Celery Casserole
 item.peasandceleryItem.name=Peas and Celery
 item.celerysoupItem.name=Celery Soup
-        
 item.zucchinibreadItem.name=Zucchini Bread
 item.zucchinifriesItem.name=Zucchini Fries
 item.zestyzucchiniItem.name=Zesty Zucchini
 item.zucchinibakeItem.name=Zucchini Bake
-        
 item.asparagusquicheItem.name=Spargel-Quiche
 item.asparagussoupItem.name=Spargelsuppe
-        
 item.walnutraisinbreadItem.name=Walnut Raisin Bread
 item.candiedwalnutsItem.name=Candied Walnuts
 item.brownieItem.name=Brownie
-        
 item.papayajuiceItem.name=Papayasaft
 item.papayasmoothieItem.name=Papaya-Smoothie
 item.papayayogurtItem.name=Papaya-Jogurt
-        
 item.starfruitjuiceItem.name=Starfruitsaft
 item.starfruitsmoothieItem.name=Starfruit Smoothie
 item.starfruityogurtItem.name=Starfruit Jogurt
-        
 item.guacamoleItem.name=Guacamole
 item.creamofavocadosoupItem.name=Cream of Avocado Soup
 item.avocadoburritoItem.name=Avocado Burrito
-        
 item.poachedpearItem.name=Poached Pear
 item.fruitcrumbleItem.name=Fruit Crumble
 item.pearyogurtItem.name=Pear Jogurt
 item.plumyogurtItem.name=Plum Jogurt
-        
 item.bananasplitItem.name=Banana Split
 item.banananutbreadItem.name=Banana Nut Bread
 item.bananasmoothieItem.name=Banana Smoothie
 item.bananayogurtItem.name=Banana Jogurt
-        
 item.coconutmilkItem.name=Coconut Milk
 item.chickencurryItem.name=Chicken Curry
 item.coconutshrimpItem.name=Coconut Shrimp
 item.coconutyogurtItem.name=Coconut Jogurt
-        
 item.orangejuiceItem.name=Orangesaft
 item.orangechickenItem.name=Orange Chicken
 item.orangesmoothieItem.name=Orange Smoothie
 item.orangeyogurtItem.name=Orange Jogurt
-        
 item.peachjuiceItem.name=Peachsaft
 item.peachcobblerItem.name=Peach Cobbler
 item.peachsmoothieItem.name=Peach Smoothie
 item.peachyogurtItem.name=Peach Jogurt
-        
 item.limejuiceItem.name=Limesaft
 item.keylimepieItem.name=Keylime Pie
 item.limesmoothieItem.name=Lime Smoothie
 item.limeyogurtItem.name=Lime Jogurt
-        
 item.mangojuiceItem.name=Mangosaft
 item.mangosmoothieItem.name=Mango Smoothie
 item.mangoyogurtItem.name=Mango Jogurt
-        
 item.pomegranatejuiceItem.name=Pomegranatesaft
 item.pomegranatesmoothieItem.name=Pomegranate Smoothie
 item.pomegranateyogurtItem.name=Pomegranate Jogurt
-        
 item.vanillayogurtItem.name=Vanilla Jogurt
-        
 item.cinnamonrollItem.name=Cinnamon Roll
 item.frenchtoastItem.name=French Toast
-        
 item.marshmellowsItem.name=Marshmellows
 item.donutItem.name=Donut
 item.chocolatedonutItem.name=Chocolate Donut
 item.powdereddonutItem.name=Powdered Donut
 item.jellydonutItem.name=Jelly Donut
 item.frosteddonutItem.name=Frosted Donut
-        
 item.cactussoupItem.name=Cactus Soup
 item.wafflesItem.name=Waffles
 item.seedsoupItem.name=Seed Soup
 item.softpretzelItem.name=Soft Pretzel
 item.jellybeansItem.name=Jellybeans
 item.biscuitItem.name=Biscuit
-        
 item.creamcookieItem.name=Cream Cookie
 item.jaffaItem.name=Jaffa
 item.friedchickenItem.name=Fried Chicken
 item.chocolatesprinklecakeItem.name=Chocolate Spinkles Cake
 item.redvelvetcakeItem.name=Red Velvet Cake
 item.footlongItem.name=Footlong
-        
 item.blueberryyogurtItem.name=Blaubeer-Jogurt
 item.lemonyogurtItem.name=Lemon Jogurt
 item.cherryyogurtItem.name=Kirsch-Jogurt
 item.strawberryyogurtItem.name=Erdbeer-Jogurt
 item.grapeyogurtItem.name=Grape Jogurt
 item.chocolateyogurtItem.name=Chocolate Jogurt
-        
 item.blackberryjuiceItem.name=Brombeersaft
 item.blackberrycobblerItem.name=Brombeerpastete
 item.blackberrysmoothieItem.name=Brombeer-Smoothie
 item.blackberryyogurtItem.name=Brombeer-Jogurt
 item.chocolatemilkItem.name=Chocolate Milk
 item.pumpkinyogurtItem.name=Pumpkin Jogurt
-        
 item.raspberryjuiceItem.name=Himbeersaft
 item.raspberrypieItem.name=Himbeerkuchen
 item.raspberrysmoothieItem.name=Himbeer-Smoothie
 item.raspberryyogurtItem.name=Himbeer-Jogurt
 item.cinnamonsugardonutItem.name=Cinnamon Sugar Donut
 item.melonyogurtItem.name=Melon Jogurt
-        
 item.kiwijuiceItem.name=Kiwisaft
 item.kiwismoothieItem.name=Kiwi Smoothie
 item.kiwiyogurtItem.name=Kiwi Jogurt
 item.plainyogurtItem.name=Plain Jogurt
 item.appleyogurtItem.name=Apple Jogurt
-        
 item.saltedsunflowerseedsItem.name=Salted Sunflowersaats
 item.sunflowerwheatrollsItem.name=Sunflower Wheat Rolls
 item.sunflowerbroccolisaladItem.name=Sunflower Broccoli Salad
-        
 item.cranberryjuiceItem.name=Cranberrysaft
 item.cranberrysauceItem.name=Cranberry Sauce
 item.cranberrybarItem.name=Cranberry Bar
-        
 item.peppermintItem.name=Peppermint
-        
 item.cactusfruitjuiceItem.name=Cactus Fruitsaft
-        
 item.blackpepperItem.name=Black Pepper
 item.groundcinnamonItem.name=Ground Cinnamon
 item.groundnutmegItem.name=Ground Nutmeg
 item.oliveoilItem.name=Cooking Oil
-        
 item.baklavaItem.name=Baklava
 item.gummybearsItem.name=Gummy Bears
 item.baconmushroomburgerItem.name=Bacon Mushroom Burger
@@ -738,15 +688,12 @@ item.eggnogItem.name=Egg Nog
 item.custardItem.name=Custard
 item.sushiItem.name=Sushi
 item.gardensoupItem.name=Garden Soup
-        
 item.freshwaterItem.name=Fresh Water
 item.freshmilkItem.name=Fresh Milk
-        
 item.muttonrawItem.name=Raw Mutton
 item.muttoncookedItem.name=Cooked Mutton
 item.calamarirawItem.name=Raw Calamari
 item.calamaricookedItem.name=Cooked Calamari
-        
 item.applejellyItem.name=Applegelee
 item.applejellysandwichItem.name=Applegelee Sandwich
 item.blackberryjellyItem.name=Brombeermarmelade
@@ -781,7 +728,6 @@ item.strawberryjellyItem.name=Erdbeergelee
 item.strawberryjellysandwichItem.name=Sandwich mit Erdbeergelee
 item.watermelonjellyItem.name=Watermelongelee
 item.watermelonjellysandwichItem.name=Watermelongelee Sandwich
-        
 item.bubblywaterItem.name=Bubbly Water
 item.cherrysodaItem.name=Cherry Soda
 item.colasodaItem.name=Cola Soda
@@ -791,16 +737,12 @@ item.lemonlimesodaItem.name=Lemon-Lime Soda
 item.orangesodaItem.name=Orange Soda
 item.rootbeersodaItem.name=Root Beer
 item.strawberrysodaItem.name=Strawberry Soda
-        
 item.caramelicecreamItem.name=Caramel Ice Cream
 item.mintchocolatechipicemcreamItem.name=Mint Chocolate Chip Ice Cream
 item.strawberryicecreamItem.name=Erdbeereis
 item.vanillaicecreamItem.name=Vanilleeis
-        
-item.ediblerootItem.name=Edible Root
-        
+item.ediblerootItem.name=Essbare Wurzel
 item.gingerchickenItem.name=Ginger Chicken
-        
 item.oldworldveggiesoupItem.name=Old World Veggie Soup
 item.spicebunItem.name=Spice Bun
 item.gingeredrhubarbtartItem.name=Gingered Rhabarber Tart
@@ -934,7 +876,6 @@ item.scallopcookedItem.name=Cooked Scallop
 item.shrimpcookedItem.name=Cooked Shrimp
 item.snailcookedItem.name=Cooked Snail
 item.turtlecookedItem.name=Cooked Turtle
-    
 item.appleciderItem.name=Apple Cider
 item.bangersandmashItem.name=Bangers and Mash
 item.batteredsausageItem.name=Battered Sausage
