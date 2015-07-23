@@ -111,7 +111,7 @@ tile.pamwalnutSapling.name=Саженец грецкого ореха
 
 tile.pamblackberryCrop.name=Ежевика
 tile.pamblueberryCrop.name=Черника
-tile.pamcandleberryCrop.name=Свечная ягода
+tile.pamcandleberryCrop.name=Восковница
 tile.pamraspberryCrop.name=Малина
 tile.pamstrawberryCrop.name=Клубника
 tile.pamcactusfruitCrop.name=Плод кактуса
@@ -198,9 +198,9 @@ item.cottonItem.name=Хлопок
 item.wovencottonItem.name=Тканый хлопок
 item.cottonseedItem.name=Семя хлопка
 
-item.candleberryItem.name=Свечная ягода
-item.candleberryseedItem.name=Семя свечной ягоды
-item.waxItem.name=Воск свечной ягоды
+item.candleberryItem.name=Восковница
+item.candleberryseedItem.name=Семя восковницы
+item.waxItem.name=Воск из восковницы
 
 item.hardenedleatherhelmItem.name=Укреплённый кожанный шлем
 item.hardenedleatherchestItem.name=Укреплённая кожанная кираса
@@ -302,8 +302,8 @@ item.cabbageItem.name=Капуста
 item.cabbageseedItem.name=Семя капусты
 item.cactusfruitItem.name=Плод кактуса
 item.cactusfruitseedItem.name=Семя фруктового кактуса
-item.candleberryItem.name=Свечная ягода
-item.candleberryseedItem.name=Семя свечной ягоды
+item.candleberryItem.name=Восковница
+item.candleberryseedItem.name=Семя восковницы
 item.waxItem.name=Воск
 item.cantaloupeItem.name=Канталупа
 item.cantaloupeseedItem.name=Семя канталупы
